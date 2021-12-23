@@ -1,0 +1,33 @@
+{
+  "name": "react-native-colored-scrollbar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xfayne/react-native-colored-scrollbar.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react native",
+    "scrollbar",
+    "react-native-scrollbar",
+    "colored-scrollbar",
+    "react-native-colored-scrollbar",
+    "costume-scrollbar",
+    "react-native-costume-scrollbar"
+  ],
+  "author": "Or Fayne (xfayne)",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.8.0"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.66.2"
+  }
+}
