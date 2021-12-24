@@ -1,4 +1,7 @@
-**react-native-colored-scrollbar** is a customisable colored scrollbar component for react native.
+<h1 align="center">react-native-colored-scrollbar</h1>
+
+<p align="center">A customisable colored scrollbar component for react native<p>
+<p align="center">Simple, lightweight and easy to use.<p>
 
 ## Example
 
