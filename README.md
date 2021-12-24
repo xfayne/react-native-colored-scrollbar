@@ -5,7 +5,9 @@
 
 ## Example
 
-[![react-instagram-zoom-slider demo](https://i.imgur.com/cpz7qNY.gif)](https://skozer.github.io/react-instagram-zoom-slider/)
+<p align="center">
+  <img width="290" height="600" src="https://iili.io/YBUOEG.gif">
+</p>
 
 ## Install
 
