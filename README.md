@@ -9,8 +9,6 @@
   <img width="242" height="500" src="https://github.com/xfayne/react-native-colored-scrollbar/blob/master/ezgif-2-5a80fb1532.gif">
 </p>
 
-[![react-instagram-zoom-slider demo](https://github.com/xfayne/react-native-colored-scrollbar/blob/master/ezgif-2-5a80fb1532.gif)](https://skozer.github.io/react-instagram-zoom-slider/)
-
 ## Install
 
 ```bash
