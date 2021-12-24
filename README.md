@@ -6,8 +6,10 @@
 ## Example
 
 <p align="center">
-  <img width="290" height="600" src="https://iili.io/YBUOEG.gif">
+  <img width="242" height="500" src="https://iili.io/YBr3x9.gif">
 </p>
+
+[![react-instagram-zoom-slider demo](https://iili.io/YBr3x9.gif)](https://skozer.github.io/react-instagram-zoom-slider/)
 
 ## Install
 
