@@ -60,4 +60,4 @@ Common props you may want to specify include:
 
 ## License
 
-MIT Licensed. Copyright © [Sean Kozer](https://github.com/skozer) 2020.
+MIT Licensed. Copyright © [Or Fayne](https://github.com/xfayne) 2021.
