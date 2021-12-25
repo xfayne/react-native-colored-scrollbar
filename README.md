@@ -1,7 +1,10 @@
 <h1 align="center">react-native-colored-scrollbar</h1>
 
 <p align="center">A customisable colored scrollbar component for react native<p>
-<p align="center">Simple, lightweight and easy to use.<p>
+  
+## Description
+
+Simple, lightweight and easy to use custom scrollbar component.<br/> Pass the component customisable props and your content inside it.
 
 ## Example
 
@@ -19,18 +22,19 @@ npm install react-native-colored-scrollbar
 
 ```jsx
 import React from 'react';
-import {Text, View} from 'react-native';
+import {Text, View, StyleSheet} from 'react-native';
 import ScrollBar from 'react-native-colored-scrollbar';
-import {StyleSheet} from 'react-native';
 import {styles,book} from './data';
 
 export default function App() {
   return (
     <>
       <View style={{flex: 1, paddingTop: 50, backgroundColor:'#28BFA7'}}>
+      
         <View style={{alignItems: 'center'}}>
           <Text style={styles.header}>Colored Scroll Bar</Text>
         </View>
+        
         <ScrollBar
           indicatorBackground="#006064"
           indicatorColor="#18FFFF"
@@ -41,6 +45,7 @@ export default function App() {
           <Text style={styles.text}>{book.description}</Text>
 
         </ScrollBar>
+        
       </View>
     </>
   );
