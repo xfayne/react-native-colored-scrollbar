@@ -1,7 +1,7 @@
 {
   "name": "react-native-colored-scrollbar",
   "version": "1.0.0",
-  "description": "",
+  "description": "A customisable colored scrollbar component for react native<",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,7 +20,13 @@
     "colored-scrollbar",
     "react-native-colored-scrollbar",
     "costume-scrollbar",
-    "react-native-costume-scrollbar"
+    "react-native-costume-scrollbar",
+    "scrollview",
+    "react-native-scrollviewr",
+    "colored-scrollview",
+    "react-native-colored-scrollview",
+    "costume-scrollview",
+    "react-native-costume-scrollview"
   ],
   "author": "Or Fayne (xfayne)",
   "license": "MIT",
