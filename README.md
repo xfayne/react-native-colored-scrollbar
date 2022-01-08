@@ -1,7 +1,13 @@
 <h1 align="center">react-native-colored-scrollbar</h1>
 
 <p align="center">A customisable colored scrollbar component for react native<p>
-  
+<p align="center">
+  <a href="https://bundlephobia.com/result?p=react-native-colored-scrollbar"><img src="https://img.shields.io/bundlephobia/minzip/react-instagram-zoom-slider?style=flat" alt="Downloads"></a>
+  <a href="https://github.com/mdbootstrap/bootstrap-material-design/blob/master/License.pdf"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>	
+  <a href="https://badge.fury.io/js/react-native-colored-scrollbar"><img src="https://badge.fury.io/js/react-native-colored-scrollbar.svg" 
+alt="npm"></a>	
+</p>
+
 ## Description
 
 Simple, lightweight and easy to use custom scrollbar component.<br/> Pass the component customisable props and your content inside it.
