@@ -100,3 +100,4 @@ ColoredScrollBar.propTypes = {
   style: PropTypes.object,
   persitent: PropTypes.bool,
 };
+//
